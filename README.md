@@ -2,10 +2,10 @@
 
 ## How to build:
 
-* You need Rust install, so head to [Rust-lang.org](https://www.rust-lang.org/) and follow the instructions
-* Clone the repository and `cd` in the folder
+* You need Rust installed, so first head to [Rust-lang.org](https://www.rust-lang.org/) and follow the instructions
+* Clone the repository and `cd` in to the folder
 * Run `cargo build --release`
-* In command line you can run the release binary:
+* Now you can run the release binary:
 
 ```
 ./target/release/wc target-file-path
